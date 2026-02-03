@@ -119,7 +119,7 @@ const PRIZE_CONFIGS: PrizeConfig[] = [
   {
     type: 'compensation',
     name: 'Compensation',
-    nameVi: 'Quay Bù',
+    nameVi: 'Vòng quay may mắn',
     totalWinners: Infinity, // Không giới hạn
     winnersPerSpin: 1,
     spinDuration: 1600,
