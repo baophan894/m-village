@@ -11,8 +11,8 @@ const quicksand = Quicksand({
 });
 
 export const metadata: Metadata = {
-  title: 'M Village - Lucky Draw',
-  description: 'Lucky Draw for M Village Employees',
+  title: 'Lucky Draw',
+  description: 'Lucky Spin',
   generator: 'v0.app',
   icons: {
     icon: [
