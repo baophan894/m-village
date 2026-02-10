@@ -247,7 +247,7 @@ export default function LuckyDrawPage() {
                 VÒNG QUAY MAY MẮN
               </h1>
               <p className="text-sm sm:text-base text-[#7ec8f0]/90 mt-2 tracking-widest font-medium">
-                Year End Party 2026
+                Year End Party 2025
               </p>
             </div>
             <div className="relative group">
